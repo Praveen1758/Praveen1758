@@ -1,3 +1,4 @@
+```md
 <div align="center">
 
 # PRAVEEN K
@@ -5,9 +6,7 @@
 ### Software Engineer
 
 <p>
-
-Building software with **simplicity**, **precision**, and **purpose**.
-
+Building software that is <b>simple</b>, <b>reliable</b>, and built to solve real-world problems.
 </p>
 
 <br>
@@ -21,99 +20,52 @@ Building software with **simplicity**, **precision**, and **purpose**.
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-8B6B4A?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Email-8B6B4A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<br>
-
 # 01 — WHO I AM
 
-```python
+I'm Praveen, a final-year Computer Science student who enjoys building software that solves practical problems.
 
-class SoftwareEngineer:
+I primarily work with **Python**, **Django**, **React**, and **JavaScript**, focusing on clean backend architecture, intuitive user experiences, and maintainable code.
 
-    def __init__(self):
-
-        self.name = "Praveen K"
-
-        self.role = "Software Engineer"
-
-        self.location = "India 🇮🇳"
-
-        self.languages = [
-
-            "Python",
-
-            "Java",
-
-            "JavaScript"
-
-        ]
-
-        self.specialization = [
-
-            "Backend Development",
-
-            "Full Stack Development",
-
-            "Problem Solving"
-
-        ]
-
-        self.current_focus = [
-
-            "Data Structures",
-
-            "System Design",
-
-            "Building Real Products"
-
-        ]
-
-```
-
-<br>
-
-> *"I believe software should solve problems quietly.  
-> The best products feel effortless to use."*
+Currently preparing for Software Development Engineer roles while strengthening my skills in Data Structures & Algorithms and System Design.
 
 ---
 
-<br>
+# 02 — WHY I BUILD
 
-# 02 — THE PHILOSOPHY
+I believe software should make people's work easier.
 
-Instead of writing code for the sake of writing code,
-I enjoy building applications that solve real-world problems with clean architecture, thoughtful design, and maintainable solutions.
-
-Every project is an opportunity to learn something new, improve my craft, and create software that people genuinely enjoy using.
+Whether it's managing payroll, organizing a library, matching resumes to jobs, or building interactive web applications, I enjoy creating products that are practical, scalable, and easy to use.
 
 ---
 
-<br>
+# 03 — CURRENT DESK
 
-# 03 — CURRENTLY BUILDING
+☕ Coffee
 
-☕ Django Applications
+🐍 Python & Django
 
-📦 Backend APIs
+⚛️ React
 
 🧠 Data Structures & Algorithms
 
-⚛️ React Projects
+📖 System Design
 
-🚀 Software Engineering Skills
+💻 VS Code
+
+🚀 Building real-world projects
 
 ---
 
-<br>
+<p align="center">
 
-<div align="center">
+<i>"Great software isn't measured by the amount of code written. It's measured by the problems it quietly solves."</i>
 
-### "Less complexity. More impact."
-
-</div>
+</p>
+```
