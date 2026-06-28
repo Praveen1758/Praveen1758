@@ -1,91 +1,119 @@
-<h1 align="center">Praveen K</h1>
+<div align="center">
 
-<p align="center">
-<b>Software Developer • Python • Django • React</b>
-</p>
+# PRAVEEN K
 
-<p align="center">
-Building scalable web applications and solving real-world problems through clean, maintainable code.
-</p>
+### Software Engineer
 
----
+<p>
 
-## 👋 About Me
-
-🎓 Final Year B.Tech Student
-
-💻 Passionate about Backend Development
-
-🐍 Python & Django Developer
-
-⚛️ React Enthusiast
-
-🚀 Currently preparing for Software Development Engineer roles.
-
----
-
-## 🚀 Featured Projects
-
-### 💼 Employee Payroll Management System
-A Django-based payroll system with employee management, attendance tracking, payroll generation, PDF salary slips, reports, and dashboard analytics.
-
-### 📚 Library Management System
-Book management system with CRUD operations, search functionality, and Django admin.
-
-### 🧠 HireSmart
-AI-powered Resume Analyzer and Job Matching System built using MERN and Python.
-
-### 📝 Quiz Management System
-React + Flask application featuring score calculation, leaderboard generation, and question management.
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,mysql,git,github,vscode"/>
+Building software with **simplicity**, **precision**, and **purpose**.
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Praveen1758&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen1758&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen1758&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="center">
+<br>
 
 <a href="https://github.com/Praveen1758">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-6F4E37?style=for-the-badge&logo=github&logoColor=F8F5F1"/>
 </a>
 
-<a href="https://www.linkedin.com/in/praveen-kandakoor-1785732a3">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/praveen-kandakoor-1785732a3/">
+<img src="https://img.shields.io/badge/LinkedIn-C4A484?style=for-the-badge&logo=linkedin&logoColor=3E2F28"/>
 </a>
 
-</p>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-8B6B4A?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
+<br>
 
-<i>"Build. Learn. Improve. Repeat."</i>
+# 01 — WHO I AM
 
-</p>
+```python
+
+class SoftwareEngineer:
+
+    def __init__(self):
+
+        self.name = "Praveen K"
+
+        self.role = "Software Engineer"
+
+        self.location = "India 🇮🇳"
+
+        self.languages = [
+
+            "Python",
+
+            "Java",
+
+            "JavaScript"
+
+        ]
+
+        self.specialization = [
+
+            "Backend Development",
+
+            "Full Stack Development",
+
+            "Problem Solving"
+
+        ]
+
+        self.current_focus = [
+
+            "Data Structures",
+
+            "System Design",
+
+            "Building Real Products"
+
+        ]
+
+```
+
+<br>
+
+> *"I believe software should solve problems quietly.  
+> The best products feel effortless to use."*
+
+---
+
+<br>
+
+# 02 — THE PHILOSOPHY
+
+Instead of writing code for the sake of writing code,
+I enjoy building applications that solve real-world problems with clean architecture, thoughtful design, and maintainable solutions.
+
+Every project is an opportunity to learn something new, improve my craft, and create software that people genuinely enjoy using.
+
+---
+
+<br>
+
+# 03 — CURRENTLY BUILDING
+
+☕ Django Applications
+
+📦 Backend APIs
+
+🧠 Data Structures & Algorithms
+
+⚛️ React Projects
+
+🚀 Software Engineering Skills
+
+---
+
+<br>
+
+<div align="center">
+
+### "Less complexity. More impact."
+
+</div>
