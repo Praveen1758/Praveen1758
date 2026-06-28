@@ -1,119 +1,50 @@
-<div align="center">
+<table width="100%">
 
-<br><br>
+<tr>
 
-<h1>
+<td width="12%">
 
-Building products.
+<h2>01</h2>
 
-<br>
+</td>
 
-Solving problems.
+<td>
 
-<br>
+<h2>The Builder</h2>
 
-Learning forever.
+</td>
 
-</h1>
+</tr>
 
-<br>
+</table>
+<table>
 
-<p>
+<tr>
 
-by
+<td>
 
-</p>
-
-<h2>
-
-PRAVEEN K
-
-</h2>
-
-<p>
-
-Software Builder
-
-</p>
-
-<br>
-
-<i>
-
-Understanding first.
-
-Coding second.
-
-</i>
-
-<br><br>
-
-</div>
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-# 01 │
-
-## The Builder
-
-● Notebook Entry 01
+ENTRY 01
 
 Making payroll
-
 feel effortless.
-
-Employee Payroll Management System
-
-Designed to simplify employee
-management, attendance,
-salary processing
-and reporting.
-
-Role
-
-Software Builder
-
-Craft
 
 Python
 
 Django
 
-SQLite
+→ Repository
 
-Bootstrap
+</td>
 
-Repository →
+<td>
 
-Live →
+ENTRY 02
 
-"Good software feels invisible."
+Organizing knowledge
+beautifully.
 
-Every contribution
-represents another lesson.
+</td>
 
-[Github Stats]
+</tr>
 
-[Streak]
-
-[Languages]
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Still learning.
-
-Still building.
-
-Still curious.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-End of Chapter One.
-
-The next page
-
-is still being written.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</table>
